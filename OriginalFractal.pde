@@ -2,7 +2,7 @@ public void setup() {
 	size(900,900);
 	rectMode(CENTER);
 	//noLoop();
-	strokeWeight(0);
+	noStroke();
 }
 
 public void draw() {
